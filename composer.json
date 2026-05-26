@@ -1,0 +1,9 @@
+{
+    "name": "vladosik233/chocolate-core",
+    "description": "Core library for chocolate factory",
+    "autoload": {
+        "psr-4": {
+            "App\\Core\\": "src/"
+        }
+    }
+}
